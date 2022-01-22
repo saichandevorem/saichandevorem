@@ -6,8 +6,6 @@
 
 ⚙️ I Working on some of the tools 
 
-**AWS Services like Compute, Storage, Network&Security, Database, CloudFront, Serverless, Containerization, Monitoring tools, CI/CD Tools, Source Code Management(SCM): GIT & GITHUB Programming: python & matlab scripts: Dockerfiles.
-
-🌎 I support, the Cloud and DevOps SDLC Process for the agile development.
+**AWS Services like Compute, Storage, Network&Security, Database, CloudFront, Serverless, Containerization, Monitoring tools, CI/CD Tools: GIT & GITHUB Programming: python & matlab scripts: Dockerfiles.
 
 💜 Interests: Learning new technologies, studying Blogs & Trouble shooting and fixing bugs.
