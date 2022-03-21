@@ -8,4 +8,4 @@
 
 **AWS Services like Compute, Storage, Network&Security, Database, CloudFront, Serverless, Containerization, Monitoring tools, CI/CD Tools: GIT & GITHUB Programming: python & matlab scripts: Dockerfiles.
 
-💜 Interests: Learning new technologies, studying Blogs & Trouble shooting and fixing bugs.
+💜 Interests: Learning new technologies especially bigdata processing technologies, studying Blogs & Trouble shooting and fixing bugs. 
